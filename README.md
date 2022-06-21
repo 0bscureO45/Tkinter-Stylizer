@@ -4,8 +4,8 @@ _Tkinter Stylizer is a package for python to create customized (rounded) buttons
 _Also, this package will include **new tkinter widgets** such as to display GIFs and videos._
 
 ## _Preview_
-_The images below are **expected** to be accomplished in the full version of tkitner stylizer._
-![alt text](https://github.com/UnknownOrganization/Tkinter-Stylizer/blob/main/Images/Sample%20Button.svg)
+_The images below are **expected** to be accomplished in the full version of tkinter stylizer._
+![alt text](/Images/Sample%20Button.svg)
 
 ## _Working_
 _Every widget will be customized by creating the images. **Pillow** will be used for this purpose, it will create the images, save them in a temporary location, and display them in the tkinter window._
